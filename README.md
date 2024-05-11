@@ -1,4 +1,4 @@
-# NN-A82582C
+# Spatiotemporally selective astrocytic ATP dynamics encode injury information sensed by microglia following brain injury in mice
 The main code for article NN-A82582C
 which includes two parts: 
 

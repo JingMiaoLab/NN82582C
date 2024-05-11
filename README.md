@@ -8,7 +8,7 @@ which includes two parts:
 
 If you have any feedback or issue, you are welcome to either post issue in Issues section or send email to jingmiao@cibr.ac.cn.
 
-## ATP1.0 Two-photon In Vivo Imaging Data Analysis
+## ATP1.0 *in vivo* imaging data analysis
 
 ### Exampluar data
 
@@ -25,7 +25,7 @@ Opts for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 3. [**Res2RoiRegion**](/Res2RoiRegion.m) This function takes an AQUA project file 'res' as input and outputs a two-dimensional ROI of Inflares as shown in Fig. 2c, with the ROI color mapping corresponding to the maximum response for the signal.
 4. [**Res2FreqPlt**](/Res2FreqPlt.m) This function accepts an AQUA project file 'res' and plot frequency figure as shown in Fig. 2d.
 
-## Sequencing data Analysis
+## Sequencing data analysis
 ### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 

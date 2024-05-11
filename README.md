@@ -26,7 +26,7 @@ Opts for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 4. [**Res2FreqPlt**](/Res2FreqPlt.m) This function accepts an AQUA project file 'res' and plot frequency figure as shown in Fig. 2d.
 
 ## Sequencing data
-### Raw dara
+### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 
 [Seq Data in Figure9](ww.1234)

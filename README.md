@@ -1,5 +1,5 @@
 # Spatiotemporally selective astrocytic ATP dynamics encode injury information sensed by microglia following brain injury in mice
-The main code for article Spatiotemporally selective astrocytic ATP dynamics encode injury information sensed by microglia following brain injury in mice
+The main code for **article Spatiotemporally selective astrocytic ATP dynamics encode injury information sensed by microglia following brain injury in mice**
 which includes two parts: 
 
 **1 Analysis code for image data**; 

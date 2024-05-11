@@ -1,6 +1,6 @@
 # NN-A82582C
-Main code for article NN-A82582C
-The main script includes two parts: 
+The main code for article NN-A82582C
+which includes two parts: 
 
 **1 Analysis code for image data**; 
 

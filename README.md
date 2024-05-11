@@ -25,7 +25,7 @@ Opts for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 3. [**Res2RoiRegion**](/Res2RoiRegion.m) This function takes an AQUA project file 'res' as input and outputs a two-dimensional ROI of Inflares as shown in Fig. 2c, with the ROI color mapping corresponding to the maximum response for the signal.
 4. [**Res2FreqPlt**](/Res2FreqPlt.m) This function accepts an AQUA project file 'res' and plot frequency figure as shown in Fig. 2d.
 
-## Sequencing data
+## Sequencing data Analysis
 ### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 

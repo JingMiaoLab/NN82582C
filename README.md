@@ -16,7 +16,7 @@ You can download the exampluar data [here](\ABCD.tif)
 
 You can download the project files post signal extraction via [AQuA](https://github.com/yu-lab-vt/AQuA) (*Yizhi Wang et.al nat. neurosci 2019*)  from [here](\ABCD.mat).
 
-Opts for signal extraction can be downloaded [here](\OptsOfAqua.csv).
+Opts for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 
 ### Code 
 

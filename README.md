@@ -29,8 +29,8 @@ Opts for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 ### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 
-[Seq Data in Figure9](ww.1234)
+[Seq Data in Figure9](https://trace.ncbi.nlm.nih.gov/Traces/?view=study&acc=SRP501521)
 
-[Seq Data in Extend data Figure9](ww.1234)
+[Seq Data in Extend data Figure9](https://trace.ncbi.nlm.nih.gov/Traces/?view=study&acc=SRP501522)
 
 

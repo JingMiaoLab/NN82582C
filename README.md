@@ -29,8 +29,55 @@ Options for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 ### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 
-[Seq Data in Figure 6](https://trace.ncbi.nlm.nih.gov/Traces/?view=study&acc=SRP501521)
+**Seq Data in Figure 6**
 
-[Seq Data in Extend data Figure 9](https://trace.ncbi.nlm.nih.gov/Traces/?view=study&acc=SRP501522)
+[PB3](https://www.ncbi.nlm.nih.gov/sra/SRR28644876)
+
+[PB1](https://www.ncbi.nlm.nih.gov/sra/SRR28644877)
+
+[MCAO3](https://www.ncbi.nlm.nih.gov/sra/SRR28644878)
+
+[MCAO1](https://www.ncbi.nlm.nih.gov/sra/SRR28644879)
+
+[Sham3](https://www.ncbi.nlm.nih.gov/sra/SRR28644880)
+
+[sham1](https://www.ncbi.nlm.nih.gov/sra/SRR28644881)
 
 
+[Seq Data in Extend data Figure 9]
+
+[P1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644882)
+
+[P3_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644883)
+
+[P2_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644884)
+
+[P1_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644885)
+
+[S3_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644886)
+
+[S2_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644887)
+
+[S1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644888)
+
+[S3_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644889)
+
+[PC3_cre1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644890)
+
+[PC2_cre1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644891)
+
+[PC1_cre1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644892)
+
+[PC3_cre0_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644893)
+
+[PC2_cre0_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644894)
+
+[PC1_cre0_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644895)
+
+[P3_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644896)
+
+[P2_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644897)
+
+[S2_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644898)
+
+[S1_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644899)

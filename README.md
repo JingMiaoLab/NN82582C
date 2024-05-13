@@ -12,9 +12,9 @@ If you have any feedback or issues, you are welcome to either post an issue in t
 
 ### Exemplar data
 
-You can download the Exemplar data [here](\ABCD.tif) 
+You can download the Exemplar data [here](https://www.dropbox.com/scl/fi/xkwx2v67kkw809dwqkfqs/ExampleData.tif?rlkey=enpvuiic0je6a5kd24l8pg0ri&st=rl3vuxql&dl=0) 
 
-You can download the project files post signal extraction via [AQuA](https://github.com/yu-lab-vt/AQuA) (*Yizhi Wang et.al nat. neurosci 2019*)  from [here](\ABCD.mat).
+You can download the project files post signal extraction via [AQuA](https://github.com/yu-lab-vt/AQuA) (*Yizhi Wang et.al nat. neurosci 2019*)  from [here]([\ABCD.mat](https://www.dropbox.com/scl/fi/0cm8lg0rokjd7xk63m5kg/ExampleData_AQuA.mat?rlkey=t6c5v52zg4y7dorj7p85yxwfi&st=jm7t0ygl&dl=0)).
 
 Options for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 

@@ -51,9 +51,9 @@ The sequencing data has been uploaded to NCBI and can be downloaded here.
 
 ### Code for seq data
 
-[**Seq code in figure 6**]()
+[**Seq code in figure 6**](\Code_Figure_6.md)
 
-[**Seq code in extend data figure 9**]()
+[**Seq code in extend data figure 9**](/Code_Extend_data_Fig_9.md)
 
 
 

@@ -29,7 +29,7 @@ Options for signal extraction can be downloaded [here](/OptsOfAqua.csv).
 ### Raw data
 The sequencing data has been uploaded to NCBI and can be downloaded here. 
 
-**Seq Data in Figure 6**
+**Seq data in figure 6**
 
 [PB1](https://www.ncbi.nlm.nih.gov/sra/SRR28644877)  [PB3](https://www.ncbi.nlm.nih.gov/sra/SRR28644876)
 
@@ -37,7 +37,7 @@ The sequencing data has been uploaded to NCBI and can be downloaded here.
 
 [Sham3](https://www.ncbi.nlm.nih.gov/sra/SRR28644880) [sham1](https://www.ncbi.nlm.nih.gov/sra/SRR28644881)
 
-**Seq Data in Extend data Figure 9**
+**Seq data in extend data figure 9**
 
 [P1_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644882) [P3_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644883) [P2_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644884) [P1_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644885)
 
@@ -48,6 +48,12 @@ The sequencing data has been uploaded to NCBI and can be downloaded here.
 [PC2_cre0_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644894) [PC1_cre0_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644895) [P3_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644896) [P2_FLA1](https://www.ncbi.nlm.nih.gov/sra/SRR28644897)
 
 [S2_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644898) [S1_FLA0](https://www.ncbi.nlm.nih.gov/sra/SRR28644899)
+
+### Code for seq data
+
+[**Seq code in figure 6**]()
+
+[**Seq code in extend data figure 9**]()
 
 
 
